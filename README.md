@@ -2,6 +2,8 @@
 
 Docker for the detection of roads and road marking in UAV images as presented in the paper "qAicedrone-Roads. A Robust Tool for Road Marking Extraction Using Aerial Photogrammetry and U-Net"
 
+The model weights can be downloaded from: [Weights](https://upvedues-my.sharepoint.com/:f:/g/personal/inbargar_upv_edu_es/EtGpqhV1xN9OnFMkpg7WqI4BpnJqgUhKx5Pt-f8TekiB1g?e=qQAAYM)
+
 Build docker:
 
 ```
